@@ -1,7 +1,6 @@
 import { Container, Text, VStack, Heading, Image, Tabs, TabList, TabPanels, Tab, TabPanel, Icon } from "@chakra-ui/react";
 import { FaPlane, FaHotel, FaCar } from "react-icons/fa";
 import FlightSearchForm from "../components/FlightSearchForm";
-import { FaPlane, FaHotel, FaCar } from "react-icons/fa";
 
 const Index = () => {
   return (
